@@ -1,0 +1,1 @@
+print("Yehor Bilokin, AI-2024")
